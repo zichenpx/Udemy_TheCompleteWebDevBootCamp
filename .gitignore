@@ -1,0 +1,16 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Dependecy directories
+node_modules
+/.pnp
+.pnp.js
+
+# dotenv environment variables file
+.env
+
+# dependencies
+/node_modules
+
+package-lock.json
+.vscode/
+
